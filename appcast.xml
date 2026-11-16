@@ -5,23 +5,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Kiku</title>
         <item>
             <title>1.0</title>
-            <pubDate>Mon, 16 Nov 2026 13:40:27 -0500</pubDate>
+            <pubDate>Mon, 16 Nov 2026 15:34:10 -0500</pubDate>
             <link>https://github.com/ZndrrMr/kiku-releases</link>
-            <sparkle:version>309</sparkle:version>
+            <sparkle:version>310</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Kiku for Mac 1.0 (309): the native Mac app, delivered directly with signed automatic updates (no more TestFlight on Mac).
+            <description sparkle:format="plain-text"><![CDATA[Kiku for Mac 1.0 (310): Kiku Account.
 
-- Native Mac Catalyst app signed with Developer ID, notarized by Apple, and updated through Kiku's Sparkle feed.
-- Margin "Continue in Kiku" > Save & Open now brings Kiku to the front on the Mac.
-- Page cleanup (skipping page numbers and other page furniture) works again: the AI model it relied on was retired upstream, so it has been moved to a supported one.
-- Library search on the Mac uses the Mac search field (no focus-system crash).
-- Includes every fix through TestFlight build 307, including recovery for PDFs with damaged ligature text.
+- New: Settings > Kiku Account. Sign in with an email code to sync your library through your Kiku account instead of iCloud, on the Mac, iPhone, iPad and the Kiku Chrome extension.
+- "Move library to Kiku account" copies your iCloud library (notes, PDFs, ink, folders, Up Next, reading positions and voice) into the account and verifies every file before switching. Your iCloud library is left untouched; "Use iCloud library" switches back at any time.
+- Narration progress now syncs between devices in account mode.
+- Includes everything in 309.
 ]]></description>
-            <enclosure url="https://github.com/ZndrrMr/kiku-releases/releases/download/v1.0-309/Kiku-1.0-309.dmg" length="40480066" type="application/octet-stream" sparkle:edSignature="pv+4jx2TtcpM9jqmdlda4LYloPYfXmIubhwYghI4lVaQ+m/iqGVlbsm3sxT98lmXe/cw9HsJtpTLULgfptBYCA=="></enclosure>
+            <enclosure url="https://github.com/ZndrrMr/kiku-releases/releases/download/v1.0-310/Kiku-1.0-310.dmg" length="47714572" type="application/octet-stream" sparkle:edSignature="PG1JnJi4wscn+ndbdUmBFqJYIArauPK5+WpkShnbdSEMtoM4PgbHz8lP4GJESqqKlt8ORfJAKXDfCpWmbJXMDg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: v8ehVok+iMD/aYPmrWZpTNMSjfl/t6zHZIyIWuov8KzImq5LtXFfoLbUy6O9J6Gz+DEmn/kwDphUQTrnPY2BAg==
-length: 1857
+edSignature: 9gpUADCrxwdyKqvOpLwVuYhL3qNpGbLeicyDc2BxF6B9/0XUoC8ZumfnWvh3Vno/0hl6BT29YF/cFpRySQX4Dg==
+length: 1772
 -->
